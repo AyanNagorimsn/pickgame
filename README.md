@@ -1,5 +1,5 @@
 # Pick Game
-<a href="https://pick-game-javascript.vercel.app/" ><img width='500px' src='https://github.com/ParallelXL/Pick-Game-Javscript/assets/134038947/d20a270f-1887-4c8a-8cd0-d9687bed63e7' /></a>
+<a href="https://pick-game.vercel.app/" ><img width='500px' src='https://github.com/ParallelXL/Pick-Game-Javscript/assets/134038947/d20a270f-1887-4c8a-8cd0-d9687bed63e7' /></a>
 
 <h2>Check this website live <a href="https://pick-game.vercel.app/" target="_blank">HERE</a></h2>
 
